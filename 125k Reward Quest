@@ -1,6 +1,14 @@
 Original starter quest
 reward 125,000 Quest coins
 
+//----------------------------------------------------Questsandpuzzles:firstquest
+const code0 = ["", "xvb", "zIG", "xHN", "Edh", "uck", "win", "drl", "NYA", "QXJ"];
+const code1 = ["", "2aX", "Hom", "LoV", "Jss", "reB", "inu", "rhm", "GJy", "zIG"];
+const code2 = ["", "abc", "Ygm", "roo", "pcw", "LCB", "one", "qdr", "eli", "LCB"];
+const code3 = ["", "nus", "thi", "zaG", "Rub", "FaT", "mdh", "RhI", "all", "RhI"];
+const code4 = ["", "Lee", "uhF", "Bvb", "yrs", "Dby", "idd", "==", "lwi", "ZXZ"];
+
+
 ![Image of first quest](https://deep-quest.com/puzzles/questChrismasHat.png)
 ![Image of first quest](https://deep-quest.com/puzzles/QUESTSATOSHI.png)
 
